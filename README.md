@@ -11,11 +11,17 @@
  
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/ignacio-garcia-trinidad-091083363/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:ignaciogtomg@gmail.com">
     <img src="https://img.shields.io/badge/Correo%20-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/ignacio_gt" target="_blank">
+   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://github.com/ignacio-gt" target="_blank">
+   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
