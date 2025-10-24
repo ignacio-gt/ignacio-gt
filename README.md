@@ -4,14 +4,11 @@
 
 ## <p class="yes"><b>🌱 About me: </b></p>
 
-<p align="left">
-  <lu>
-    <li> 🎓 Estudiante de <b>Computacion e informatica</b> </li>
-    <li> 💻 Me gusta desarrollar en <b>C#</b> y <b>ASP.NET MVC</b> </li>
-    <li> 🌱 Actualmente en constante crecimiento </li>
-    <li> 🎯 En busca de nuevos retos </li>
-  </lu>
-</p>
+ - 🎓 Estudiante de <b>Computacion e informatica</b>
+ - 💻 Me gusta desarrollar en <b>C#</b> y <b>ASP.NET MVC</b>
+ - 🌱 Actualmente en constante crecimiento
+ - 🎯 En busca de nuevos retos
+ 
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
